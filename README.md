@@ -1,3 +1,9 @@
+## 🦕 Introduction
+
+Hello! Welcome to my profile!
+
+Feel free to connect with me! [LinkedIn](https://www.linkedin.com/in/philip-gudijanto/)
+Or take a look at my [Personal Website](https://spectre-1.github.io)
 
 ## 💼 Projects
 
