@@ -28,4 +28,4 @@ Here are some of my areas of expertise:
 
 ## 🎓 Education
 
-- [Degree or Certification Name](Name of Institution, Year Graduated)
+- [B.S., Computer Science](University of California - Irvine, 2023)
