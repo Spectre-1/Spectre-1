@@ -10,7 +10,7 @@ Or take a look at my [Personal Website](https://spectre-1.github.io)
 Here are some of my recent projects:
 
 - [Portfoilo Website](https://github.com/Spectre-1/Spectre-1.github.io): Website showcasing my experince and projects
-- [Pathfinding Visualizer](https://github.com/username/project-2): A description of the project and its features.
+- [Pathfinding Visualizer](https://github.com/username/project-2): Pathfinding Visualizer is a web-based tool that allows users to visualize popular pathfinding algorithms.
 
 ## 🤝 Contributions
 
