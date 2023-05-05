@@ -24,7 +24,7 @@ Here are some of my areas of expertise:
 
 - Programming languages: [C/C++, Python, Java, MathLab, JavaScript, CSS, HTML]
 - Libraries/Frameworks: [ React.js, Node.js, Flask, React Native, Gtest]
-- Tools: [ Git, GitLab, MongoDB, MySQL, Docker, Trello
+- Tools: [ Git, GitLab, MongoDB, MySQL, Docker, Trello]
 
 ## 🎓 Education
 
