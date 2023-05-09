@@ -16,7 +16,7 @@ Here are some of my recent projects:
 
 I am a volunteer at CarbonCopies Foundation
 If you wish to take a look at my contributions for their projects
-Do take a look at my other [GitHub profile](https://github.com/username/project-1)
+Do take a look at my other [GitHub profile](https://github.com/Spectre-01)
 
 ## 🚀 Skills and Expertise
 
