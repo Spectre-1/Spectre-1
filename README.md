@@ -12,12 +12,6 @@ Here are some of my recent projects:
 - [Portfoilo Website](https://github.com/Spectre-1/Spectre-1.github.io): Website showcasing my experince and projects
 - [Pathfinding Visualizer](https://github.com/Spectre-1/PathV): Pathfinding Visualizer is a web-based tool that allows users to visualize popular pathfinding algorithms.
 
-## 🤝 Contributions
-
-I am a volunteer at CarbonCopies Foundation
-If you wish to take a look at my contributions for their projects
-Do take a look at my other [GitHub profile](https://github.com/Spectre-01) (Migrated to Gitlabs)
-
 ## 🚀 Skills and Expertise
 
 Here are some of my areas of expertise:
